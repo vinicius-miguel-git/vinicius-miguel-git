@@ -1,8 +1,6 @@
 ### Olá eu sou o vinicius miguel
 
 ##
-
-- 🔭 Hoje trabalho com RPA
 - 🌱 Estudando Python
 - 👯 Contate-me no email: viniciusmiguelgit@gmail.com
 
